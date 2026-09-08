@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- ৮০% ট্রান্সপারেন্ট সফট গ্লাস কালার -->
+    <solid android:color="#CCFFFFFF" />
+</shape>

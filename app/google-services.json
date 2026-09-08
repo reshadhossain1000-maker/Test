@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237290273126",
+    "project_id": "bakedrop-merchant",
+    "storage_bucket": "bakedrop-merchant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237290273126:android:de58671f73bfafe880f0a7",
+        "android_client_info": {
+          "package_name": "com.example.bakedrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9BzKPQItlQaWBZBEzrSTU8cXh6Eseww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
